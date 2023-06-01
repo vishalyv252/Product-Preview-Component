@@ -1,6 +1,6 @@
 # Product-Preview-Component
 
-Hello guys, In this project, I created a "Product Preview Card Component" using "React JS" and "Tailwind". In Tailwind, I used flex as the layout for styling the card component. Whereas React allows you to write the HTML code within a javascript file using "JSX". 
+Hello guys, In this project, I created a "Product Preview Card Component" using "React JS" and "Tailwind". In Tailwind, I used flex as the layout for styling the card component. Whereas React allows you to write the HTML code within a javascript file using "JSX". If you want to see the web page, just click the link below the description of this repository.
 
 ➡️ Link : https://product-card-preview-component-yv.netlify.app/
 
