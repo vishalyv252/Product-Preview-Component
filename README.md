@@ -3,7 +3,7 @@ In this project, I created a "Product Preview Card Component" using "React JS" a
 
 Link:
 
-#Screenshots:
+# Screenshots:
 
 1).Desktop Design:
 
