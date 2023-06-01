@@ -6,6 +6,7 @@ In this project, I created a "Product Preview Card Component" using "React JS" a
 # Screenshots:
 
 1).Desktop Design:
+![Desktop Design](https://github.com/vishalyv252/Product-Preview-Component/assets/105093020/7bb85bfd-9090-4c94-aaff-81377b1ec13e)
 
 2).Mobile Design:
 
